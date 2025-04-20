@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class P_01_LargestEleInArray {
+public class Solution {
 
     public static int findLargestNumber(int arr[]){
 
